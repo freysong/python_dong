@@ -1,3 +1,4 @@
+#This is a framework from python_dong chapter01
 import os
 import sys
 import datetime
@@ -23,4 +24,3 @@ fp.write(head)
 fp.write('# Date: '+today+'\n')
 fp.write('# '+'-'*20+'\n')
 fp.close()
-#test
