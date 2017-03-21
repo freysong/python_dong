@@ -7,7 +7,7 @@ head = '# '+'-'*20+'\n'+\
      '# Function description:\n'+\
      '# '+'-'*20+'\n'+\
      '# Author : Frey Song\n'+\
-     '# Emeil : song.fulei@bestv.com.cn\n'+\
+     '# Email : song.fulei@bestv.com.cn\n'+\
      '# '+'-'*20+'\n'
 
 desFile = sys.argv[1]
