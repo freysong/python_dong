@@ -1,4 +1,4 @@
-#This is a framework from python_dong chapter01 test
+#This is a framework from python_dong chapter01
 import os
 import sys
 import datetime
